@@ -26,6 +26,9 @@ This Streamlit web application provides a user-friendly interface for performing
 * Triggers the calculation when the user clicks the "Calculate" button.
 * Controls the flow of the application.
 
+### Libraries Used:
+Streamlit (streamlit as st): This is the core library for creating the web application interface. It provides all the necessary components for input, output, and layout.
+
 
 
 
