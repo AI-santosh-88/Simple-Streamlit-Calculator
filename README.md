@@ -29,6 +29,9 @@ This Streamlit web application provides a user-friendly interface for performing
 ### Libraries Used:
 Streamlit (streamlit as st): This is the core library for creating the web application interface. It provides all the necessary components for input, output, and layout.
 
+### Summary:
+This project demonstrates the creation of a simple interactive web calculator using Streamlit. The application is structured into distinct modules responsible for handling user input, operation selection, performing the calculation, displaying the output, and managing user interaction. The use of Streamlit simplifies the process of building the user interface and handling user interactions. The inclusion of error handling makes the application more robust. The structure of the code, especially using the operations dictionary, improves readability and maintainability. This project is a valuable exercise for understanding the basics of Streamlit and building simple web applications.
+
 
 
 
